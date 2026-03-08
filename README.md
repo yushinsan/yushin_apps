@@ -1,7 +1,7 @@
 ---
 title: Yushin_apps
-description: Демонстрация продвинутого синтаксиса Markdown для README, вики и статей
-tags: [markdown, guide, template, awesome]
+description: All public Yushin tools
+tags: [cryptography, encryption, data, tools]
 ---
 
 # 💻 YUSHIN APPS
