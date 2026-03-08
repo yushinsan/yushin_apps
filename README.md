@@ -1,7 +1,3 @@
----
-title: Yushin Apps
----
-
 # 💻 YUSHIN APPS
 
 Здесь хранятся все публичные инструменты от Yushin
