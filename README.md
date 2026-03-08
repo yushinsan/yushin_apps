@@ -1,7 +1,5 @@
 ---
-title: Yushin_apps
-description: All public Yushin tools
-tags: [cryptography, encryption, data, tools]
+title: Yushin Apps
 ---
 
 # 💻 YUSHIN APPS
